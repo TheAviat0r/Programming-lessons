@@ -1,7 +1,0 @@
-result = 25
-result = 27
-result = 28
-some shit = 29
-another shit = 30
-cool result = 1337
-the best result = 1488
